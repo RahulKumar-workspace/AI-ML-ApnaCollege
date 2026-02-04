@@ -12,4 +12,3 @@ s = set()
 print(type(stud1))
 print(type(l)) #inbuild class in python
 print(type(s)) #inbuild class in python
-
